@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>los enlaces en HTML se definen con a:</p>
+
+<a href="https://www.w3schools.com">Esto es un link</a>
+
+</body>
+</html>
