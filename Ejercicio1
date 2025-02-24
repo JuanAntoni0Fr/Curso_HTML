@@ -1,0 +1,11 @@
+<!DOCTYPE html>                        <!-- Este es el tipo de documento que vamos a trabajar, en este caso es html -->
+<html>                                 <!-- Define el inicio y fin del documento HTML -->
+<head>                                 <!--Contiene metadatos y enlaces a recursos externos (CSS, scripts, etc.) -->
+<title>Hola mundo</title>              <!--Esta etiqueta sirve para poner el titulo de nuestra pagina -->
+</head>                        
+<body>                                 <!-- Esta etiqueta es para el desarrollo de la pagina, puede contener varios elementos dentro de, ya sea titulos, imagenes, parrafos,etc. -->
+<h1>Mi primer hola mundo</h1>          <!-- Esta etiqueta pone encabezados de distintos tamaños(h1-h6) h1 es el encabezado mas grande -->
+<p>Mi primera vez usando html</p>      <!-- Esta etiqueta sirve para poner un parrafo en nuestra pagina -->
+
+</body>
+</html>
